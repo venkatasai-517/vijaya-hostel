@@ -1,0 +1,4 @@
+.nav-link.active {
+  background-color: #6c757d !important; /* Ensure this color matches your design */
+  color: white !important;
+}
